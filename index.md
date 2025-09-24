@@ -9,13 +9,7 @@ author_profile: true
 # Curriculum Vitae- Miss Belinda Nasimiyu
 
 ---
-
-## 🎓 Education
-- **BSc Information Technology**, Masinde Muliro University of Science and Technology -*Second Class Honors Upper Division*
-- **Diploma in Information Technology**, Masinde Muliro University of Science and Technology -*Awarded Best Female Student*
-- **Certificate in ICT**, Masinde Muliro University of Science and Technology
----
-title: "Belinda Nasimiyu"
+title: "Belinda Nasimiyu Curriculam Vitae"
 layout: default
 ---
 
@@ -23,9 +17,9 @@ layout: default
 
 **IT Consultant | Operations Manager | Security Enthusiast**  
 
-📍 Kisumu, Kenya  
-📧 [belindanasimiyu33@gmail.com](mailto:belindanasimiyu33@gmail.com)  
-📱 +254 793 926 544  
+ Kisumu, Kenya  
+[belindanasimiyu33@gmail.com](mailto:belindanasimiyu33@gmail.com)  
+ +254 793 926 544  
 
 ---
 
@@ -71,7 +65,7 @@ A technology-inclined professional with strong troubleshooting capabilities and 
 - Gained real-world experience in IT within the banking industry.  
 - Supported technical teams in daily operations.  
 
-### **VOIP System Management** – Lake Victoria North Water Works Agency *(May–Jul 2023)*
+### **IT Support Technician ** – Lake Victoria North Water Works Agency *(May–Jul 2023)*
 - Tested and deployed new software solutions.  
 - Provided user support and created internal IT documentation.  
 - Delivered end-user training to boost productivity.  
@@ -86,11 +80,9 @@ A technology-inclined professional with strong troubleshooting capabilities and 
 ---
 
 ## 🎓 Education
-- **BSc in Information Technology**, Masinde Muliro University of Science and Technology *(2020–2024)*  
-  Second Class Honors – Upper Division  
-
-- **Diploma in Information Technology**, MMUST *(2018–2020)*  
-  Credit 1  
+- **BSc Information Technology**, Masinde Muliro University of Science and Technology -*Second Class Honors Upper Division*
+- **Diploma in Information Technology**, Masinde Muliro University of Science and Technology -*Awarded Best Female Student*
+- **Certificate in ICT**, Masinde Muliro University of Science and Technology
 
 ---
 
@@ -103,7 +95,7 @@ A technology-inclined professional with strong troubleshooting capabilities and 
 
 ## 🔗 Links
 - [GitHub](https://github.com/your-github-username)  
-- [LinkedIn](https://linkedin.com/in/your-linkedin)  
+- [LinkedIn](https://linkedin.com/in/belinda-nasimiyu)  
 
 ---
 
