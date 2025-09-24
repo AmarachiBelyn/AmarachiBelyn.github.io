@@ -94,7 +94,7 @@ A technology-inclined professional with strong troubleshooting capabilities and 
 ---
 
 ## 🔗 Links
-- [GitHub](https://github.com/your-github-username)  
+- [GitHub](https://github.com/AmarachiBelyn)  
 - [LinkedIn](https://linkedin.com/in/belinda-nasimiyu)  
 
 ---
