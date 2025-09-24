@@ -9,9 +9,6 @@ author_profile: true
 # Curriculum Vitae- Miss Belinda Nasimiyu
 
 ---
-title: "Belinda Nasimiyu Curriculam Vitae"
-layout: default
----
 
 # Belinda Nasimiyu
 
