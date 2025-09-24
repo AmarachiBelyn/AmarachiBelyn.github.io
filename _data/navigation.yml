@@ -2,20 +2,14 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Profile"
-    url: /#profile
-
-  - title: "Skills"
-    url: /#skills
-
-  - title: "Experience"
-    url: /#work-experience
-
-  - title: "Education"
-    url: /#education
+  - title: "Projects"
+    url: /projects/
 
   - title: "Community"
-    url: /#community-engagement--certifications
+    url: /community/
 
-  - title: "Contact"
-    url: /#belinda-nasimiyu
+  - title: "About Me"
+    url: /about/
+
+  - title: "Download CV"
+    url: /assets/Belinda_Nasimiyu_CV.pdf
