@@ -1,6 +1,0 @@
----
-permalink: /profile/
-title: "Profile"
----
-
-
