@@ -1,6 +1,6 @@
 ---
 title: "About"
 layout: post
-permalink: /About/
+permalink: /about/
 author_profile: true
 ---
