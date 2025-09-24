@@ -1,6 +1,6 @@
 ---
-title: "Posts by Tag"
-permalink: /tags/
+title: "Community"
+permalink: /community/
 layout: tags
 author_profile: true
 ---
