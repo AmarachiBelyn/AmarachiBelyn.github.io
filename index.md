@@ -11,6 +11,6 @@ author_profile: true
 ---
 
 ## 🎓 Education
-**BSc Information Technology**, Masinde Muliro University of Science and Technology -*Second Class Honors Upper Division*
-**Diploma in Information Technology**, Masinde Muliro University of Science and Technology -*Awarded Best Female Student*
-**Certificate in ICT**, Masinde Muliro University of Science and Technology
+- **BSc Information Technology**, Masinde Muliro University of Science and Technology -*Second Class Honors Upper Division*
+- **Diploma in Information Technology**, Masinde Muliro University of Science and Technology -*Awarded Best Female Student*
+- **Certificate in ICT**, Masinde Muliro University of Science and Technology
