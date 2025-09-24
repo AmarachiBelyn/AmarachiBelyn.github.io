@@ -1,9 +1,21 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Home"
+    url: /
+
+  - title: "Profile"
+    url: /#profile
+
+  - title: "Skills"
+    url: /#skills
+
+  - title: "Experience"
+    url: /#work-experience
+
+  - title: "Education"
+    url: /#education
+
+  - title: "Community"
+    url: /#community-engagement--certifications
+
+  - title: "Contact"
+    url: /#belinda-nasimiyu
