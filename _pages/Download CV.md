@@ -1,6 +1,6 @@
 ---
 permalink: /Download CV/
-title: "Download CV"
+title: "download CV"
 ---
 
 
